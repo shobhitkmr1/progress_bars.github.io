@@ -1,5 +1,6 @@
 div.changes{
-    
+    box-sizing: border-box;
+    position: relative;
 }
 
 
